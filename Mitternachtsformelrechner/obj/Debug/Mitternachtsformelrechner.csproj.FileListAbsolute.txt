@@ -1,0 +1,21 @@
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\bin\Debug\Mitternachtsformelrechner.exe.config
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\bin\Debug\Mitternachtsformelrechner.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\bin\Debug\Mitternachtsformelrechner.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.csproj.AssemblyReference.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.csproj.SuggestedBindingRedirects.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.Form1.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.Properties.Resources.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.csproj.GenerateResource.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.csproj.CoreCompileInputs.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.pdb
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\bin\Debug\Mitternachtsformelrechner.exe.config
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\bin\Debug\Mitternachtsformelrechner.exe
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\bin\Debug\Mitternachtsformelrechner.pdb
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.csproj.AssemblyReference.cache
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.Form1.resources
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.Properties.Resources.resources
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.csproj.GenerateResource.cache
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.csproj.CoreCompileInputs.cache
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.exe
+C:\Users\Radeon\Desktop\C# GitHub\Mitternachtsformelrechner\Mitternachtsformelrechner\obj\Debug\Mitternachtsformelrechner.pdb
